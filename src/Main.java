@@ -1,9 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello From Main()");
-        System.out.println("Changed Occured");
-        System.out.println("ASDAdsg");
-
-        System.out.println("From Train");
+        System.out.println("Cleared");
     }
 }
