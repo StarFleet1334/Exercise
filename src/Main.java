@@ -7,4 +7,8 @@ public class Main {
 
         System.out.println("Jupiter");
     }
+
+    public void draw() {
+        System.out.println("Drawing...");
+    }
 }
