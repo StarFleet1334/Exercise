@@ -3,6 +3,9 @@ public class Main {
         System.out.println("Hello From Mars");
         System.out.println("Master");
         System.out.println("Jupiter");
+
+
+        System.out.println("Jupiter");
     }
 
     public void draw() {
