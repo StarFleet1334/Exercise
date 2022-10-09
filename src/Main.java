@@ -4,4 +4,8 @@ public class Main {
         System.out.println("Master");
         System.out.println("Jupiter");
     }
+
+    public void draw() {
+        System.out.println("Drawing...");
+    }
 }
