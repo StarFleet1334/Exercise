@@ -11,4 +11,8 @@ public class Main {
     public void draw() {
         System.out.println("Drawing...");
     }
+
+    public void master() {
+        System.out.println("Master...");
+    }
 }
